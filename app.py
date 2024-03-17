@@ -5,8 +5,8 @@ from datetime import datetime
 import requests
 import folium
 from streamlit_folium import folium_static
-import osm2geojson
-import polyline
+
+
 '''
 # Welcome to taxifare prediction
 '''
